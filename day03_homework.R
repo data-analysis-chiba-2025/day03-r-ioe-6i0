@@ -1,6 +1,6 @@
 # DAY 3 HOMEWORK
 #
-# Name:
+# Name:Ai Oe
 
 # 0. This demonstrates how to save your answers.
 # I've written the answer for you.

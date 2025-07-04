@@ -55,7 +55,7 @@ answer_3 <- x + y
 # Use the sqrt() function to calculate the square root of 200, and
 # save your answer in an object called answer_4.
 
-answer4_ <- sqrt(200)
+answer_4 <- sqrt(200)
 
 # 5. The seq() function generates sequences of numbers.
 # Its arguments include "from" (the starting number), "to"
@@ -101,4 +101,5 @@ letters
 #
 # HINT: Use `seq()` inside the square brackets
 
-anwer_7 <- letters[seq(from = 1, to = 26, by = 2 )]
+answer_7 <- letters[seq(from = 1, to = 26, by = 2 )]
+
